@@ -6,10 +6,12 @@ An intelligent retail navigation and shopping assistance platform that combines 
 
 Admin / Staff Portal
 Backend:https://smartshoppingcart.onrender.com
+
 Frontend:https://smart-shoppingcart.vercel.app/
 
 Smart Cart Portal
 Backend:https://cart-backend-rqxe.onrender.com
+
 Frontend:https://smartcart-frontend-topaz.vercel.app/
 ⸻
 
@@ -48,17 +50,26 @@ Admin Features
 
 🏗️ System Architecture
 Admin Frontend (React)
+
         ↓
+        
 Admin Backend (Node.js + Express)
+
         ↓
+        
 MySQL Database
 
 --------------------------------
 
+
 Cart Frontend (React)
+
         ↓
+        
 Cart Backend (Node.js + Express)
+
         ↓
+        
 SQLite Database
 
 🛠️ Tech Stack
@@ -98,5 +109,3 @@ Deployment
 * Implemented graph-based indoor navigation spanning 29+ interconnected store nodes.
 * Designed an offline-first synchronization engine for shopping lists, cart items, feedback, and location tracking.
 * Built scalable REST APIs and cloud-hosted infrastructure using Railway and Vercel.
-
-⸻
